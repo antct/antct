@@ -18,3 +18,7 @@ Vim                      45 mins             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+```bash
+echo "NTI3ODkyMjQ1QHFxLmNvbQo=" | base64 -d
+```
