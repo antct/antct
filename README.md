@@ -5,10 +5,10 @@
 📊 This Week I Spent My Time On: 
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   11 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      11 mins             █████████████████████████   100.0%
 ```
 
 
