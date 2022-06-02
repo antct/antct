@@ -5,7 +5,7 @@
 📊 This Week I Spent My Time On: 
 
 💬 Programming Languages: 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
