@@ -15,7 +15,3 @@ VS Code                  21 hrs 40 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-
-```bash
-echo "NTI3ODkyMjQ1QHFxLmNvbQo=" | base64 -d
-```
