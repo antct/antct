@@ -3,11 +3,10 @@
 📊 This Week I Spent My Time On: 
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       █████████████████████████   99.94% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 ```
 
 
