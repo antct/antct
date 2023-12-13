@@ -3,11 +3,10 @@
 📊 This Week I Spent My Time On: 
 
 💬 Programming Languages: 
-Python                   0 secs              ████████████████████████░   96.89% 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 ```
 
 
